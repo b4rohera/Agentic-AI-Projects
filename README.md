@@ -66,3 +66,4 @@ Non-Functional
 •	Slack-formatted output (bold, bullets) renders correctly in Slack
 •	Error handling posts to the errors channel without disrupting the main flow
 •	Workflow handles Slack URL verification challenge on first setup
+<img width="1074" height="1981" alt="image" src="https://github.com/user-attachments/assets/f119cdc3-c098-4727-bdb8-e5054e4f4552" />
